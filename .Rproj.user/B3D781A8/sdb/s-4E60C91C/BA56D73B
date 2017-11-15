@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"p8105_hw6_problem2\"\nauthor: \"He Jin & Chuhan Zhou\"\ndate: \"11/15/2017\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n\n",
+    "created" : 1510775864553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2349566825",
+    "id" : "BA56D73B",
+    "lastKnownWriteTime" : 1510776067,
+    "last_content_update" : 1510776067503,
+    "path" : "~/Desktop/Columbia/Semester 1/DATA SCIENCE - 1/homework/p8105_hw6_hj2479/p8105_hw6_problem2.Rmd",
+    "project_path" : "p8105_hw6_problem2.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
