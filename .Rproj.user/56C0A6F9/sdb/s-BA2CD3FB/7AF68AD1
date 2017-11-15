@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"p8105_hw6_problem2\"\nauthor: \"He Jin & Chuhan Zhou\"\ndate: \"11/15/2017\"\noutput: \n  flexdashboard::flex_dashboard:\n    orientation: row\n  runtime: shiny\n---\n\n```{r setup, include=FALSE}\nlibrary(flexdashboard)\n```\n\nColumn {.sidebar}\n-----------------------------------------------------------------------\n\n```{r}\n\n```\n\n\nRow\n-----------------------------------------------------------------------\n\n### Chart A\n\n```{r}\n\n```\n\nRow {.tabset .tabset-fade}\n-----------------------------------------------------------------------\n\n### Chart B\n\n```{r}\n\n```\n\n### Chart C\n\n```{r}\n\n```\n\n",
+    "created" : 1510776444881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1007236130",
+    "id" : "7AF68AD1",
+    "lastKnownWriteTime" : 1510776541,
+    "last_content_update" : 1510776541985,
+    "path" : "~/p8105_hw6_hj2479/p8105_hw6_problem2.Rmd",
+    "project_path" : "p8105_hw6_problem2.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
